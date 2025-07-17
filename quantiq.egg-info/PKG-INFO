@@ -1,3 +1,36 @@
+Metadata-Version: 2.4
+Name: quantiq
+Version: 0.1.1
+Summary: Confidence-aware AI toolkit with uncertainty estimation for Transformers and Deep Ensembles
+Home-page: https://github.com/aryanator/QuantIQ
+Author: Aryan Patil
+Author-email: aryanator01@gmail.com
+Project-URL: Documentation, https://github.com/aryanator/QuantIQ
+Project-URL: Source, https://github.com/aryanator/QuantIQ
+Project-URL: Bug Tracker, https://github.com/aryanator/QuantIQ/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENCE
+Requires-Dist: torch>=1.9.0
+Requires-Dist: transformers>=4.30.0
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 # QuantIQ 🔍
 
 **QuantIQ** is a unified Python library for building robust, uncertainty-aware deep learning systems. It brings together lightweight, modular tools to help researchers and practitioners gain insight into model reliability and risk through principled uncertainty estimation.
