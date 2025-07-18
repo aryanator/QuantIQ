@@ -60,6 +60,10 @@ pip install -e .
 Explore examples, API usage, and task-specific walkthroughs in the GitHub repository:  
 🔗 https://github.com/aryanator/QuantIQ
 
+
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/16fcbc24-5f7e-463e-91af-f7b1806b90c5" />
+
+
 ---
 
 ## 📝 License
