@@ -1,6 +1,8 @@
 # QuantIQ 🔍
 
 **QuantIQ** is a unified Python library for building robust, uncertainty-aware deep learning systems. It brings together lightweight, modular tools to help researchers and practitioners gain insight into model reliability and risk through principled uncertainty estimation.
+<img width="1024" height="939" alt="poster" src="https://github.com/user-attachments/assets/12d53dab-8cd9-4c2b-b5b8-7bf203007ff5" />
+
 
 ## 📦 What's Inside
 
