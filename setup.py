@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="quantiq",
-    version="0.1.1",
+    version="0.2.0",
     description="Confidence-aware AI toolkit with uncertainty estimation for Transformers and Deep Ensembles",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
