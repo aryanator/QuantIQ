@@ -13,7 +13,7 @@ A plug-and-play PyTorch/HuggingFace wrapper for Monte Carlo Dropout–based unce
 - Computes entropy, confidence, and class-wise variances
 - Enables dropout during inference for Bayesian-style sampling
 
-📖 [Full DropWise Documentation](https://github.com/aryanator/QuantIQ/DropWise/README.md)
+📖 [Full DropWise Documentation](https://github.com/aryanator/QuantIQ/blob/main/quantiq/dropwise/README.md)
 
 ---
 
@@ -24,7 +24,7 @@ A deep ensemble wrapper for PyTorch models with support for adversarial training
 - Enables risk scoring and calibration
 - Includes built-in visualization and prediction APIs
 
-📖 [Full SmartEnsemble Documentation](https://github.com/aryanator/QuantIQ/SmartEnsemble/README.md)
+📖 [Full SmartEnsemble Documentation](https://github.com/aryanator/QuantIQ/blob/main/quantiq/smartensemble/README.md)
 
 ---
 
